@@ -14,3 +14,19 @@ Description: Fake SIM in the status bar (carrier, signal, network type). Visual 
 Author: makr
 Name: FakeSIM
 
+Package: com.makr.icontint
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: makr
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.makr.icontint_1.0_iphoneos-arm64.deb
+Size: 133882
+MD5sum: 68e2c68fc3517a5cbc2ef677afe4fd7a
+SHA1: 2e1784569deee2241dead7a12bf5b6954974dcbd
+SHA256: d655e6b3544f3825e8215fa3a197482ae4739ae044b9c4262c0c6b030c740429
+Section: Tweaks
+Description: Dark and Tinted app icons in the iOS 18 style (own rendering engine, no Apple code).
+Author: makr
+Icon: file:///var/jb/Library/PreferenceLoader/Preferences/IconTint@3x.png
+Name: IconTint
+
