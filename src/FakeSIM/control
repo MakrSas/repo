@@ -1,9 +1,0 @@
-Package: com.makr.fakesim
-Name: FakeSIM
-Version: 0.1.0
-Architecture: iphoneos-arm64
-Description: Fake SIM in the status bar (carrier, signal, network type). Visual only.
-Maintainer: makr
-Author: makr
-Section: Tweaks
-Depends: mobilesubstrate, preferenceloader
