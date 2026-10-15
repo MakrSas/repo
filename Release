@@ -1,0 +1,24 @@
+Origin: Makr Repo
+Label: Makr Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Tweaks by Makr
+Date: Thu, 15 Oct 2026 18:46:27 UTC
+MD5Sum:
+ 28193349e643a5581d253b37bf144847 509 Packages
+ 7375cc044be123c2122c554c7e904e8c 385 Packages.gz
+ d41887b8ab6a8debd2720c2247c5a018 407 Packages.bz2
+ ed683d933650507aaa578eeeed6b2d8d 460 Packages.xz
+SHA1:
+ 3754a0d6fae38bb5b31e9649cbf34c1ca82bccac 509 Packages
+ cf27c9f66e160bf8a2b8f1cc111c9cecd1cd663d 385 Packages.gz
+ 257b8fc537ca7380c9d56d3a052a27e673df93e2 407 Packages.bz2
+ 9b4cabec770233ccf3bcd04157634f7d8e8f3b35 460 Packages.xz
+SHA256:
+ 1268c6992c172f44476f118e603ff5b3ab28dbe3d6444f6a69ab89fb058b77e1 509 Packages
+ 75c78d4f1950214bc4a33f627176f219f96183527e540073209c2c8d72da5c50 385 Packages.gz
+ 99dab22fd5cc6a08e7af5bb31ae899d1aa67e37383f4e74a92d002a2e4b35728 407 Packages.bz2
+ 743c8f9048645664b9ad2d47a562a2075bebf3d6e2a57c41c20e86091110ef51 460 Packages.xz
