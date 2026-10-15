@@ -1,31 +1,35 @@
 Package: com.makr.icontint
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: makr
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/com.makr.icontint_1.0_iphoneos-arm64.deb
-Size: 133882
-MD5sum: 68e2c68fc3517a5cbc2ef677afe4fd7a
-SHA1: 2e1784569deee2241dead7a12bf5b6954974dcbd
-SHA256: d655e6b3544f3825e8215fa3a197482ae4739ae044b9c4262c0c6b030c740429
+Filename: debs/com.makr.icontint_1.0.1_iphoneos-arm64.deb
+Size: 134148
+MD5sum: a1b5557ae9265c406f6fa27033b67bed
+SHA1: 593f44e7a0e01e698f3ecd51ce1ac87e145bd667
+SHA256: c112751ee1239857c7edd75727725680c07f83964ef6327fd50991b2c860d9bd
 Section: Tweaks
-Description: Dark and Tinted app icons in the iOS 18 style (own rendering engine, no Apple code).
+Description: Dark and Tinted app icons in the iOS 18 style (own rendering engine, no Apple code) [vibe-coded]
+ ⚠️ Vibe-coded: written almost entirely by an AI assistant (Claude); not audited, may crash SpringBoard or cause Safe Mode. Use at your own risk.
+ ⚠️ Вайбкод: написано почти целиком ИИ-ассистентом (Claude), не аудировано, возможны вылеты SpringBoard и Safe Mode. На свой страх и риск.
 Author: makr
 Icon: file:///var/jb/Library/PreferenceLoader/Preferences/IconTint@3x.png
 Name: IconTint
 
 Package: com.makr.icontint
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: makr
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), firmware (<< 15.0)
-Filename: debs/com.makr.icontint_1.1_iphoneos-arm.deb
-Size: 103890
-MD5sum: f17562325afe33996ff89284022b07a4
-SHA1: 0f896ab096b592ef68b16542b1d558731b6d68fd
-SHA256: e7abdb8c1cde1caf3c83c4a145fa33fd7037f3dc3af86841d8051f86eaefecfe
+Filename: debs/com.makr.icontint_1.1.1_iphoneos-arm.deb
+Size: 104162
+MD5sum: 432094d162b8534162f70dc6a358aad1
+SHA1: e00733df4cf628ebe88d03abd283ea515ebbefdb
+SHA256: 47c716002c46dce5cae4d17a7c5e592a1a7ba86d83551863651332fe345e6b76
 Section: Tweaks
-Description: Dark and Tinted app icons in the iOS 18 style for iOS 12 (own rendering engine, no Apple code).
+Description: Dark and Tinted app icons in the iOS 18 style for iOS 12 (own rendering engine, no Apple code) [vibe-coded]
+ ⚠️ Vibe-coded: written almost entirely by an AI assistant (Claude); not audited, may crash SpringBoard or cause Safe Mode. Use at your own risk.
+ ⚠️ Вайбкод: написано почти целиком ИИ-ассистентом (Claude), не аудировано, возможны вылеты SpringBoard и Safe Mode. На свой страх и риск.
 Author: makr
 Icon: file:///Library/PreferenceLoader/Preferences/IconTint@3x.png
 Name: IconTint
