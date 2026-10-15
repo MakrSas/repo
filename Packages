@@ -1,21 +1,5 @@
 Package: com.makr.icontint
 Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: makr
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), firmware (<< 15.0)
-Filename: debs/com.makr.icontint_1.0_iphoneos-arm.deb
-Size: 101078
-MD5sum: 37d8f17a102a2ba5eeb04abca7ca0abc
-SHA1: bb7f8a52ae26cb8baf37e95a2d6c2491a0214570
-SHA256: 354c22bdf1ea94350665774ee7496913bea546078a911bce8bc29159b2018171
-Section: Tweaks
-Description: Dark and Tinted app icons in the iOS 18 style for iOS 12 (own rendering engine, no Apple code).
-Author: makr
-Icon: file:///Library/PreferenceLoader/Preferences/IconTint@3x.png
-Name: IconTint
-
-Package: com.makr.icontint
-Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: makr
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
@@ -28,5 +12,21 @@ Section: Tweaks
 Description: Dark and Tinted app icons in the iOS 18 style (own rendering engine, no Apple code).
 Author: makr
 Icon: file:///var/jb/Library/PreferenceLoader/Preferences/IconTint@3x.png
+Name: IconTint
+
+Package: com.makr.icontint
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: makr
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), firmware (<< 15.0)
+Filename: debs/com.makr.icontint_1.1_iphoneos-arm.deb
+Size: 103890
+MD5sum: f17562325afe33996ff89284022b07a4
+SHA1: 0f896ab096b592ef68b16542b1d558731b6d68fd
+SHA256: e7abdb8c1cde1caf3c83c4a145fa33fd7037f3dc3af86841d8051f86eaefecfe
+Section: Tweaks
+Description: Dark and Tinted app icons in the iOS 18 style for iOS 12 (own rendering engine, no Apple code).
+Author: makr
+Icon: file:///Library/PreferenceLoader/Preferences/IconTint@3x.png
 Name: IconTint
 
