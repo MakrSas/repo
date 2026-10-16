@@ -6,19 +6,19 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Tweaks by Makr
-Date: Thu, 15 Oct 2026 22:21:27 UTC
+Date: Fri, 16 Oct 2026 11:11:55 UTC
 MD5Sum:
- fb4535ccb32e88cd1d6707cf4397fc6d 1996 Packages
- 4d9924549a5c632de5c838dad35befd8 872 Packages.gz
- c99cc0f37348fe801f3b7f6df5d55255 1018 Packages.bz2
- b44efc5f54b22afa9b801bba81535f6f 904 Packages.xz
+ e7b2ba9c2726c1ef65162b97f9acea54 2561 Packages
+ 1aaaada76a9e59f09feb8a15149d0d6d 1102 Packages.gz
+ 3fa4b482f94b63a7b35d18768d4469c6 1291 Packages.bz2
+ 8c88566e75914ac6d1b3a5534c173674 1124 Packages.xz
 SHA1:
- 469b53c7edfa7e2f707ab6265de9680d0feda444 1996 Packages
- 0ad11e069ff31e125d72491d96a4dd6f141ff7b7 872 Packages.gz
- 486e4389a59a36941fd24aae1459fcde8713ce11 1018 Packages.bz2
- ce42cdfe97f81590713f0761952b19ba0bc18446 904 Packages.xz
+ d0d7e9bded3081fd038c9de73ee247972ef230c3 2561 Packages
+ 1c6a48210702ec9ef02a74ff09dfd528a1ab3121 1102 Packages.gz
+ 6385e1acd30ea8e1a6a6f424c7c745ec7a13c1a3 1291 Packages.bz2
+ 92f0bfca634a902e89c635cbf4f7937333f30600 1124 Packages.xz
 SHA256:
- 5c5e290c8afb29233396ee7df66400d25ff215dd5bdcb1d746a9fce68c3b67bb 1996 Packages
- 48589609c8884535fdd18efa3c8860caaf9d6295ea3fbdf3b9bb07f4447c97ac 872 Packages.gz
- eb6c7b62525f00fe3ac882690142621962266afee8379395bd7aecb3e04f1e36 1018 Packages.bz2
- d73f2bf1478661db770924e926a4cba0ba65d95de82835b2d3e337aa5d3b301c 904 Packages.xz
+ 2d90e2f5e24995c12ec02829406f34321a7f69d2fd0ab5c382bf32f4089ca221 2561 Packages
+ 8fa6be871c20d1bbe8d0abe07dfccf002c8a9b0f2b4e75cf15dc3e6aa9b6a495 1102 Packages.gz
+ a9829f06a9fc39db28a0e1ce961fb5d8338c4a3ec01eb40ff7ccb97fc7973a3c 1291 Packages.bz2
+ db825db5bc1c9663a74ec897feecc86e919578429a48491fa4f3d0e9331b9eaa 1124 Packages.xz
