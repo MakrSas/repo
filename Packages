@@ -35,15 +35,15 @@ Icon: file:///Library/PreferenceLoader/Preferences/IconTint@3x.png
 Name: IconTint
 
 Package: com.makr.terminal
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: makr
 Depends: firmware (>= 15.0), zsh | bash
-Filename: debs/com.makr.terminal_1.0_iphoneos-arm64.deb
-Size: 657822
-MD5sum: 3bab107d508ecce4d4715d91fe6f60eb
-SHA1: 734c9a53f3f52fdff903cdb3d8a98917a63a6595
-SHA256: ee2f88c191e3125f73998676d159f353677a545aad4dfe5a34cf9b62e80ded5f
+Filename: debs/com.makr.terminal_1.0.1_iphoneos-arm64.deb
+Size: 657788
+MD5sum: 987ce819c1130b2516cc77890b331839
+SHA1: 579cc2a83814f303c421a32d8ecf9295cab9671e
+SHA256: eecb901d39aebea27460d0fa02c4b5283292b0b9af42d48ab287faae188cb73b
 Section: Terminal Support
 Description: Fast native terminal with root tabs, themes, tabs and hardware keyboard shortcuts [vibe-coded]
  ⚠️ Vibe-coded: written almost entirely by an AI assistant (Claude); not audited. Root tabs run a shell as the superuser. Use at your own risk.
