@@ -6,3 +6,7 @@
 APT-репозиторий для Sileo + исходники твиков.
 
 - `debs/` — готовые пакеты. Положить .deb, выполнить `./update.sh`, закоммитить, запушить.
+
+## Trebuchet
+
+`com.makr.trebuchet` — незавершённый порт LineageOS Trebuchet/Launcher3 для rootless iOS, опубликованный «as-is for fun». Пакет добавляет отдельное приложение с иконкой на домашнем экране; оно открывает лаунчер и не заменяет SpringBoard. Исходники и статус: [MakrSas/Trebuchet](https://github.com/MakrSas/Trebuchet).

@@ -86,3 +86,20 @@ Author: makr
 Icon: file:///var/jb/Applications/Terminal.app/AppIcon60x60@3x.png
 Name: Terminal
 
+Package: com.makr.trebuchet
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: makr
+Depends: firmware (>= 15.0), com.makr.materialyou
+Filename: debs/com.makr.trebuchet_0.1.0_iphoneos-arm64.deb
+Size: 966872
+MD5sum: c3a655bb059497fddbe24f627647831a
+SHA1: 8e4c27e3a699619f4fc454ad76cd2784832258b6
+SHA256: 1cad7c274956ee63d464b162c05316f3b35c949568899dcfbd74311e79026876
+Section: Applications
+Homepage: https://github.com/MakrSas/Trebuchet
+Description: Unfinished experimental Trebuchet launcher port for jailbroken iOS 15 or later. Installs a standalone launcher app and Home Screen icon; published as-is for fun, incomplete and not ready as a daily launcher.
+Author: makr
+Icon: https://makrsas.github.io/repo/icons/trebuchet.png
+Name: Trebuchet
+
