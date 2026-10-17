@@ -41,10 +41,10 @@ Maintainer: makr
 Installed-Size: 14556
 Depends: mobilesubstrate, preferenceloader, com.makr.materialyou
 Filename: debs/com.makr.lineageqs_0.4.9_iphoneos-arm64.deb
-Size: 628
-MD5sum: 74d5ef5ce6d4e033cb3fca99dcfaed5a
-SHA1: 98a6706f0b4bf1c6be704a2738ca278bd5be19cf
-SHA256: 7fd62cafd52e898d9677dad2bd429dbb1c3cb0fa7ddad61cc87386962dd3d980
+Size: 3395166
+MD5sum: 0439a5518ad7b39762b3546ca99324d6
+SHA1: 4c0f5c2c862a36ff40f0d8e242c64e9409ff1f4e
+SHA256: f58885613f24e0a98dede7437850a5b47463676efbeacb3ee966aeb3a124de38
 Section: Tweaks
 Description: Android 17 (LineageOS 24) notification shade and Quick Settings for iOS 16: tiles with real actions, notifications, media player, tile editor, Material You colours.
 Author: makr
