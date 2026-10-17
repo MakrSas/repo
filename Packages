@@ -35,36 +35,37 @@ Icon: file:///Library/PreferenceLoader/Preferences/IconTint@3x.png
 Name: IconTint
 
 Package: com.makr.lineageqs
-Version: 0.4.9
+Version: 0.4.10
 Architecture: iphoneos-arm64
 Maintainer: makr
 Installed-Size: 14556
 Depends: mobilesubstrate, preferenceloader, com.makr.materialyou
-Filename: debs/com.makr.lineageqs_0.4.9_iphoneos-arm64.deb
-Size: 3395166
-MD5sum: 0439a5518ad7b39762b3546ca99324d6
-SHA1: 4c0f5c2c862a36ff40f0d8e242c64e9409ff1f4e
-SHA256: f58885613f24e0a98dede7437850a5b47463676efbeacb3ee966aeb3a124de38
-Section: Tweaks
-Description: Android 17 (LineageOS 24) notification shade and Quick Settings for iOS 16: tiles with real actions, notifications, media player, tile editor, Material You colours.
+Filename: debs/com.makr.lineageqs_0.4.10_iphoneos-arm64.deb
+Size: 3393922
+MD5sum: 6da6ae2400099b46a00518547300ecc4
+SHA1: 53f8450b38bbf5edde72526f32977f5c14ba1c52
+SHA256: bd948b856a3836dc40251dee0b045286ef5c265e5fc7d6dcc7f538291f776fc7
+Section: Lineage
+Description: LineageOS 24 / Android 17 notification shade and quick settings for iOS 16 (prototype).
 Author: makr
 Icon: https://makrsas.github.io/repo/icons/lineageqs.png
 Name: LineageQS
 
 Package: com.makr.materialyou
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm64
 Maintainer: makr
 Installed-Size: 14052
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.makr.materialyou_1.0.3_iphoneos-arm64.deb
-Size: 3282246
-MD5sum: 383308b9e8cd2b9cf5de9bc4108a90ab
-SHA1: 5e039c0eafe7cb3f5c03030dbb385cfa555f47a5
-SHA256: 83456a98c216f36606c3010ef14f9c5eda81b8d85507ded35c3560d32c06aeb1
-Section: Tweaks
+Filename: debs/com.makr.materialyou_1.0.4_iphoneos-arm64.deb
+Size: 3281468
+MD5sum: 8f883391931ad22c2d9be78294c90970
+SHA1: 48e79ecd950b3e9109ac4143a2a863c219da868e
+SHA256: cb80f941bee1f016bb16e7d7c9808ec1363b6e90abeeb6f4463d29c97e220a57
+Section: Lineage
 Description: Android 17 Material You colours for iOS 16: wallpaper colours, custom colour, theme styles. Shared by LineageQS and Trebuchet.
 Author: makr
+Icon: https://makrsas.github.io/repo/icons/materialyou.png
 Name: Material You
 
 Package: com.makr.terminal
