@@ -52,16 +52,16 @@ Icon: https://makrsas.github.io/repo/icons/lineageqs.png
 Name: LineageQS
 
 Package: com.makr.materialyou
-Version: 1.0.5
+Version: 1.0.6
 Architecture: iphoneos-arm64
 Maintainer: makr
 Installed-Size: 14052
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.makr.materialyou_1.0.5_iphoneos-arm64.deb
-Size: 3282030
-MD5sum: 3ce014f487750fe9d510f6ee6eebf413
-SHA1: 0380643b85569c226cee7ed705fbe6450380e91f
-SHA256: 2252127f4b93baf93a2847c9a68700bc719dc813d2a17f7df9d5edf4cbe961cf
+Filename: debs/com.makr.materialyou_1.0.6_iphoneos-arm64.deb
+Size: 3282316
+MD5sum: 6842919f77bdca4ff565a0751ca878a2
+SHA1: 2f4ea5db31ec8fb36fd606bed8515935f4adc753
+SHA256: 9d45503b74528f4af8729bb75f751cb3c5f4f022d8bf4d030862ace4c71cb409
 Section: Lineage
 Description: Android 17 Material You colours for iOS 16: wallpaper colours, custom colour, theme styles. Shared by LineageQS and Trebuchet.
 Author: makr
