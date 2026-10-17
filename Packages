@@ -35,19 +35,20 @@ Icon: file:///Library/PreferenceLoader/Preferences/IconTint@3x.png
 Name: IconTint
 
 Package: com.makr.lineageqs
-Version: 0.4.8
+Version: 0.4.9
 Architecture: iphoneos-arm64
 Maintainer: makr
 Installed-Size: 14556
 Depends: mobilesubstrate, preferenceloader, com.makr.materialyou
-Filename: debs/com.makr.lineageqs_0.4.8_iphoneos-arm64.deb
-Size: 3394432
-MD5sum: a2ee16c819e7972e4d4a49ff4b04f040
-SHA1: 549105fd6599bca8b3f4cf527d66337629d5ba52
-SHA256: 4fca8de78fdc2b32955163f94c0b3dd4c61eec2c20e6bab3f41c478dc3aa3917
+Filename: debs/com.makr.lineageqs_0.4.9_iphoneos-arm64.deb
+Size: 628
+MD5sum: 74d5ef5ce6d4e033cb3fca99dcfaed5a
+SHA1: 98a6706f0b4bf1c6be704a2738ca278bd5be19cf
+SHA256: 7fd62cafd52e898d9677dad2bd429dbb1c3cb0fa7ddad61cc87386962dd3d980
 Section: Tweaks
 Description: Android 17 (LineageOS 24) notification shade and Quick Settings for iOS 16: tiles with real actions, notifications, media player, tile editor, Material You colours.
 Author: makr
+Icon: https://makrsas.github.io/repo/icons/lineageqs.png
 Name: LineageQS
 
 Package: com.makr.materialyou
