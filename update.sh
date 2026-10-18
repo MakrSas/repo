@@ -23,7 +23,7 @@ Label: Makr Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Tweaks by Makr
 Date: $(LC_ALL=C date -u "+%a, %d %b %Y %H:%M:%S UTC")

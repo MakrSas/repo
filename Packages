@@ -36,6 +36,24 @@ Name: IconTint
 
 Package: com.makr.lineageqs
 Version: 0.4.13
+Architecture: iphoneos-arm64e
+Maintainer: makr
+Installed-Size: 15484
+Depends: com.makr.materialyou
+Recommends: mobilesubstrate, preferenceloader
+Filename: debs/com.makr.lineageqs_0.4.13_iphoneos-arm64e.deb
+Size: 3508664
+MD5sum: 1a5f6354f1bdb7f7b5adfef370289e2d
+SHA1: e4ad94081f41800e905887bb9c26824b3a20f113
+SHA256: be7391da30aed5f4634147949bd5b2666a5df9655940eb83b84cd96245dab03b
+Section: Test
+Description: LineageOS 24 / Android 17 notification shade and quick settings for iOS 16.
+Author: makr
+Icon: https://makrsas.github.io/repo/icons/lineageqs.png
+Name: LineageQS
+
+Package: com.makr.lineageqs
+Version: 0.4.13
 Architecture: iphoneos-arm64
 Maintainer: makr
 Installed-Size: 15452
@@ -63,6 +81,23 @@ MD5sum: 807d71275b6ebead1b24c53944c54bf7
 SHA1: 7902a4e75641635de870268517541bcb821d0fad
 SHA256: bd4c4558579a883d570b1eccbb95ad4dd29ffaed7caeefdf0240c57fba5d4798
 Section: Lineage
+Description: Android 17 Material You colours for iOS 16: wallpaper colours, custom colour, theme styles. Shared by LineageQS and Trebuchet.
+Author: makr
+Icon: https://makrsas.github.io/repo/icons/materialyou.png
+Name: Material You
+
+Package: com.makr.materialyou
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: makr
+Installed-Size: 14404
+Recommends: mobilesubstrate, preferenceloader
+Filename: debs/com.makr.materialyou_1.0.7_iphoneos-arm64e.deb
+Size: 3310332
+MD5sum: d381597dc9e81ce6610c62e229878ac9
+SHA1: d2a614e4d819c6c126f51d2c965bfc00f8d10335
+SHA256: 703d256022ed7f82c0625b77eb8508a98d2fb606ebdf0cd1f20251cad657e05b
+Section: Test
 Description: Android 17 Material You colours for iOS 16: wallpaper colours, custom colour, theme styles. Shared by LineageQS and Trebuchet.
 Author: makr
 Icon: https://makrsas.github.io/repo/icons/materialyou.png

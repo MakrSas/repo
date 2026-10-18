@@ -3,22 +3,22 @@ Label: Makr Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Tweaks by Makr
-Date: Sat, 17 Oct 2026 21:20:15 UTC
+Date: Sun, 18 Oct 2026 12:31:23 UTC
 MD5Sum:
- a795c64e38d5b130cdd93a0fd5d3a21b 4996 Packages
- 6c35ae20e2a32a6934cc91e78628cb05 1924 Packages.gz
- cb34ca6528fb07fc84a0c7ee370e6457 2086 Packages.bz2
- 8dc87035aff79448de0f8a71db4fa319 1900 Packages.xz
+ cc906833804852864bc852be4580364b 6254 Packages
+ e85ae98aa944ae4c47c806bf0075ded0 2178 Packages.gz
+ 58f4fd35cd0f64cb985d161ac2f4f9b9 2358 Packages.bz2
+ b77f470a395f0032e623b3c4ac0e5e6a 2124 Packages.xz
 SHA1:
- 9db3881c0b3986f4ed52a26ec681bb2c6b241f75 4996 Packages
- 496c26abf469b8952bacb29b618d7602b1d62b01 1924 Packages.gz
- b8d5ab38cb5a48cca301ff2e57f4e63eaa1dea36 2086 Packages.bz2
- c0368a2988c0a5989246f73ff7927614827f3bd2 1900 Packages.xz
+ 59885cb60cae81827971b55c4d284c2d83de2ada 6254 Packages
+ 95bcb36de501a43baacee4df2d3b3355074fd51d 2178 Packages.gz
+ 52cc93342678ff9e765fc72664d03f732d13e309 2358 Packages.bz2
+ 5ae5952789ca31a8d3cdff5f7d0e9cc4ebc4331a 2124 Packages.xz
 SHA256:
- 49a7d571fb9ac21db2bd96952836c86881289c829390e08cec492ec46dcee779 4996 Packages
- 7ff49c930499927e381711173f5e9036058cd38380b86ca846d9b8d04ef1a8fc 1924 Packages.gz
- 8db64671a609178c64bd86a7adde4c30f99fe569bcf2d2ffd7874e69de60d532 2086 Packages.bz2
- d5f995cb08a557535517677aad765ebead5bfa4acd0c7f3dd17b74cc1048745c 1900 Packages.xz
+ 365aacdfba1d0ceee49f8c25b898f17ce1cf9afe56e263c4fbe774e6ebb440b9 6254 Packages
+ 45369a6a503ae2c9882378dae7e5ecdfcfb3e2aafd9dfd1bfb39c0f9fdbf1464 2178 Packages.gz
+ 010d76a20da14e68c58fb3a993e3a76808f6a0d46c4e7a558033ae54335991dc 2358 Packages.bz2
+ 08a7902e3753294885670e85a227256aaab913eccb9b22a5f097ebc27b31089f 2124 Packages.xz
