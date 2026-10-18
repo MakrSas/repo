@@ -36,24 +36,6 @@ Name: IconTint
 
 Package: com.makr.lineageqs
 Version: 0.4.13
-Architecture: iphoneos-arm64e
-Maintainer: makr
-Installed-Size: 15484
-Depends: com.makr.materialyou
-Recommends: mobilesubstrate, preferenceloader
-Filename: debs/com.makr.lineageqs_0.4.13_iphoneos-arm64e.deb
-Size: 3508664
-MD5sum: 1a5f6354f1bdb7f7b5adfef370289e2d
-SHA1: e4ad94081f41800e905887bb9c26824b3a20f113
-SHA256: be7391da30aed5f4634147949bd5b2666a5df9655940eb83b84cd96245dab03b
-Section: Test
-Description: LineageOS 24 / Android 17 notification shade and quick settings for iOS 16.
-Author: makr
-Icon: https://makrsas.github.io/repo/icons/lineageqs.png
-Name: LineageQS
-
-Package: com.makr.lineageqs
-Version: 0.4.13
 Architecture: iphoneos-arm64
 Maintainer: makr
 Installed-Size: 15452
@@ -64,6 +46,24 @@ MD5sum: d171c1658909b5f67c2de21643c3c993
 SHA1: 1f54b292451a087aa4215537e205cbd9f0ca1c7e
 SHA256: f53743a9c88d5bd0f9ab2a6070d7aee03332c44e897b1e962e6bd9726bd83461
 Section: Lineage
+Description: LineageOS 24 / Android 17 notification shade and quick settings for iOS 16.
+Author: makr
+Icon: https://makrsas.github.io/repo/icons/lineageqs.png
+Name: LineageQS
+
+Package: com.makr.lineageqs
+Version: 0.4.14
+Architecture: iphoneos-arm64e
+Maintainer: makr
+Installed-Size: 15484
+Depends: com.makr.materialyou
+Recommends: mobilesubstrate, preferenceloader
+Filename: debs/com.makr.lineageqs_0.4.14_iphoneos-arm64e.deb
+Size: 3508704
+MD5sum: a205fbf807397c8051bbfb462118a395
+SHA1: 862fb2ac49aecb314e25c536735d5c849cabc665
+SHA256: 5f111bdce619aaa12001b20516d4117c376730f342d55b1bca08afbb7738c3e5
+Section: Test
 Description: LineageOS 24 / Android 17 notification shade and quick settings for iOS 16.
 Author: makr
 Icon: https://makrsas.github.io/repo/icons/lineageqs.png
